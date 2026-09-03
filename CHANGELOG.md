@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.1](https://github.com/editorconfig-checker/editorconfig-checker/compare/v4.0.0...v4.0.1) (2026-09-03)
+
+
+### Bug Fixes
+
+* update pre-commit-config to use v4 of our repo ([fcd68bf](https://github.com/editorconfig-checker/editorconfig-checker/commit/fcd68bffdacddb356f8c9f7cbfb838744302d17d))
+
 ## [4.0.0](https://github.com/editorconfig-checker/editorconfig-checker/compare/v3.11.1...v4.0.0) (2026-09-03)
 
 
